@@ -1,0 +1,50 @@
+{
+  "Environmental Sensors": [
+    "Temperature Sensor",
+    "Humidity Sensor",
+    "Pressure Sensor",
+    "Light Sensor",
+    "Air Quality Sensor"
+  ],
+  "Motion Sensors": [
+    "Accelerometer",
+    "Gyroscope",
+    "Magnetometer",
+    "Proximity Sensor"
+  ],
+  "Position Sensors": [
+    "GPS Sensor",
+    "Compass Sensor"
+  ],
+  "Biometric Sensors": [
+    "Fingerprint Sensor",
+    "Iris Scanner",
+    "Facial Recognition Sensor",
+    "Heart Rate Sensor"
+  ],
+  "Image and Video Sensors": [
+    "Camera Sensor",
+    "Depth Sensor",
+    "IR Sensor (Infrared)"
+  ],
+  "Sound Sensors": [
+    "Microphone",
+    "Noise Sensor"
+  ],
+  "Chemical Sensors": [
+    "Gas Sensor",
+    "Smoke Sensor"
+  ],
+  "Touch Sensors": [
+    "Capacitive Touch Sensor",
+    "Resistive Touch Sensor"
+  ],
+  "Motion Detection Sensors": [
+    "Motion Detector",
+    "Occupancy Sensor"
+  ],
+  "Proximity Sensors": [
+    "Proximity Sensor",
+    "Distance Sensor"
+  ]
+}
