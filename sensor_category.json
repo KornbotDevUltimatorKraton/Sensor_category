@@ -1,50 +1,50 @@
 {
-  "Environmental Sensors": [
-    "Temperature Sensor",
-    "Humidity Sensor",
-    "Pressure Sensor",
-    "Light Sensor",
-    "Air Quality Sensor"
-  ],
-  "Motion Sensors": [
-    "Accelerometer",
-    "Gyroscope",
-    "Magnetometer",
-    "Proximity Sensor"
-  ],
-  "Position Sensors": [
-    "GPS Sensor",
-    "Compass Sensor"
-  ],
-  "Biometric Sensors": [
-    "Fingerprint Sensor",
-    "Iris Scanner",
-    "Facial Recognition Sensor",
-    "Heart Rate Sensor"
-  ],
-  "Image and Video Sensors": [
-    "Camera Sensor",
-    "Depth Sensor",
-    "IR Sensor (Infrared)"
-  ],
-  "Sound Sensors": [
-    "Microphone",
-    "Noise Sensor"
-  ],
-  "Chemical Sensors": [
-    "Gas Sensor",
-    "Smoke Sensor"
-  ],
-  "Touch Sensors": [
-    "Capacitive Touch Sensor",
-    "Resistive Touch Sensor"
-  ],
-  "Motion Detection Sensors": [
-    "Motion Detector",
-    "Occupancy Sensor"
-  ],
-  "Proximity Sensors": [
-    "Proximity Sensor",
-    "Distance Sensor"
-  ]
-}
+    "Environmental Sensor": [
+      "Temperature ",
+      "Humidity ",
+      "Pressure ",
+      "Light ",
+      "Air Quality "
+    ],
+    "Motion Sensor": [
+      "Accelerometer",
+      "Gyroscope",
+      "Magnetometer",
+      "Proximity "
+    ],
+    "Position Sensor": [
+      "GPS ",
+      "Compass "
+    ],
+    "Biometric Sensor": [
+      "Fingerprint ",
+      "Iris Scanner",
+      "Facial Recognition ",
+      "Heart Rate "
+    ],
+    "Image and Video Sensor": [
+      "Camera ",
+      "Depth ",
+      "IR  (Infrared)"
+    ],
+    "Sound Sensor": [
+      "Microphone",
+      "Noise "
+    ],
+    "Chemical Sensor": [
+      "Gas ",
+      "Smoke "
+    ],
+    "Touch Sensor": [
+      "Capacitive Touch ",
+      "Resistive Touch "
+    ],
+    "Motion Detection Sensor": [
+      "Motion Detector",
+      "Occupancy "
+    ],
+    "Proximity Sensor": [
+      "Proximity ",
+      "Distance "
+    ]
+  }
